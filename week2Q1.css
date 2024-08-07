@@ -1,0 +1,54 @@
+h2{
+    margin-left:6px ;
+    text-decoration:underline ;
+    
+}
+h1{
+    margin-left:6px ;
+    
+}
+.container{
+    border:4px solid    ;
+    border-color: black;
+    width:70%   ;
+    height: 100%;
+    margin-left:15px     ;
+    
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.intro{
+    border: 2.5px solid black;
+    width: 50%;
+    margin-left:6px ;
+    padding-left:10px ;
+}
+.invite{
+    display: inline-block;
+    margin-top:25px;
+    margin-left:20px; 
+    border: 3px blue solid;
+    height: 80px;
+    width: 26%;
+    padding: 15px;
+}
+a{
+    border: 2px solid lightgreen;
+    margin:20px 10px;
+}
+.social{
+    display: inline-block;
+    margin-left:100px;
+    margin-top: 25px;
+    border: 3px blue solid;
+    height: 120px;
+    width: 17%;
+    padding: 15px;
+}  
+
+.invitation{
+    width: 100%;
+    display: inline-block;
+}

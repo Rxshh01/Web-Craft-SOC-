@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+}
+.wrap{
+    width: 100%;
+    display: grid;
+}
+.wrapper{
+   
+    flex: 1;
+}
+img{
+    width: 20vw;
+}
